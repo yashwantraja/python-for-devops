@@ -1,1 +1,33 @@
+student1 ="ashok"
+student2 ="arov"
+student3 ="ram"
+student4 ="Raj"
+
+print(student1)
+print(student2)
+print(student3)
+print(student4)
+
+(but it's lenthy process instead we can use lists)
+
+#lists
+
+Students_lists =["Abhi","Raj","Hari","Yash"]
+
+print(Students_lists)
+
+#tuples
+Students_lists =("Abhi","Raj","Hari","Yash")
+
+print(type(Students_lists))--------type is a keyword to see the what type of varaible
+
+#lists
+
+Students_lists =["Abhi","Raj","Hari","Yash"]  (if we add new data on the list) then use "append"
+Students_lists.append = ("Yun")
+print(Students_lists)
+
+Students_lists =["Abhi","Raj","Hari","Yash"]  (if we remove  data on the list) then use "remove"
+Students_lists.remove = ("Yun")
+print(Students_lists)
 
