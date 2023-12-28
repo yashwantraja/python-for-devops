@@ -5,7 +5,7 @@ for i in range (10):
     print("---------")
     print("raj")
 -----------------------------------------------------------------------------------------------------------------------------------------------
-for variable in sequence(range:list or tuple)--here in keyword doing import job from sequence to varaible it will sve the data ,below the eg;
+for variable in sequence(range:list or tuple)--here in keyword doing import job from sequence to varaible it will sve the elements ,below the eg;
 
 color = ["hello","Yashwant"]
 
