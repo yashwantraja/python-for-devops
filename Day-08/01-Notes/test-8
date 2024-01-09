@@ -25,9 +25,9 @@ print(type(Students_lists))--------type is a keyword to see the what type of var
 #lists
 
 Students_lists =["Abhi","Raj","Hari","Yash"]  (if we add new data on the list) then use "append"
-Students_lists.append = ("Yun")
+Students_lists.append ("Yun")
 print(Students_lists)
 
 Students_lists =["Abhi","Raj","Hari","Yash"]  (if we remove  data on the list) then use "remove"
-Students_lists.remove = ("Yun")
+Students_lists.remove  ("Yun")
 print(Students_lists)
